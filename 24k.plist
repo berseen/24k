@@ -14,7 +14,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.apple.developer.team-identifier</string>
+                <string>GameLobby-mobile.app</string>
                 <key>bundle-version</key>
                 <string>1.00</string>
                 <key>kind</key>
